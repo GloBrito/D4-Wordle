@@ -1,1 +1,1 @@
-# [D4-Wordle](https://globrito.github.io/D4-Wordle/index.html)
+# [d.4-wordle](https://globrito.github.io/d.4-wordle/index.html)
